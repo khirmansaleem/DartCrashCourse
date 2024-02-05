@@ -1,0 +1,12 @@
+4 TYPES OF OPERATORS::
+-----------------------------------------------------------------------------
+unary prefix
+unary postfix
+binary infix
+Compound assignment operator.
+------------------------------------------------------------------------------
+Unary operators operate on one value.
+unary prefix operate before one value.
+unary postfix operate after one value.
+Binary infix operate on 2 values and place between them.
+Truncating division can be done using "~/" which returns integer answer.
