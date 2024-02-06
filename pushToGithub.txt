@@ -1,0 +1,5 @@
+Guidelines to push to github:
+git status
+git add .
+git commit -m "Add untracked folders"
+git push origin main

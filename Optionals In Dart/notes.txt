@@ -1,0 +1,14 @@
+--> Optionality in dart is the ability to have a value or have not a value.
+--> using "?" with declaration of variable show this may contain value or may not contain.
+--> ability of a variable to contain value for that data type or not contain value for that data type.
+--> datatype + ? --> adds optionality to the variable that it can be null or contain value
+--> when we do not specify data type and set it to null then data type will be automatically dynamic.
+--> when we are working with normal declaration of a variable, it should be initialized with some 
+--> value necessarily but when working with optional variables then they are by default set to null
+--> we do not necessarily need to assign them value.
+--> "??=" assign value to a variable only if it is null otherwise not
+--> Nullable or optioal variables 
+--> Container data types like lists can be itself nullable and can also contain data types nullable
+CONDITIONAL MEMBER ACCESS OPERATOR::
+--> "?." -> access the property only if value if not null otherwise skip property and return null
+--> There is also static analyzer in dart
