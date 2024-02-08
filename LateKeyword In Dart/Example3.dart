@@ -1,7 +1,7 @@
 // Late Variables in Classes
 void main(List<String> args) {
 // when we are using late variables as properties in our classes, they are only resolved when they are
-// first used, otherwise they will not be called even in constructor call.
+
   Book book = Book();
   book.description;
   print(book.description); // in class late variable is resolved when it is used
