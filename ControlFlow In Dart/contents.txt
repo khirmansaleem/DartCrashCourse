@@ -1,0 +1,6 @@
+Example 1: if/else
+Example 2: CLASSIC FOR LOOP
+Example 3: MOdern For LOOP
+Example 4: While Loop
+Example 5: Switch Statements 
+Example 6: FOR LOOP OVER MAP
