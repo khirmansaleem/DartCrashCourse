@@ -1,0 +1,8 @@
+Example 1: Enumerations
+Example 2 : Enhanced Enumerations
+Example 3: Switch Enumerations
+Example 4 : Converting Strings to Enumerations
+Example 5 : Falling through on Enumeration cases.
+Example 6 : Enumerations with Mixins.
+Example 7 : Extending Enumerations.
+Example 8 : Implementing Comparable on Enumerations.

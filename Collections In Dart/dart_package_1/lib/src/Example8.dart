@@ -2,6 +2,14 @@
 import 'package:collection/collection.dart';
 
 void main() {
+  var login = 'Manager';
+  var nav = [
+    'Home',
+    'Furniture',
+    'Plants',
+    if (login case 'Manager') 'Inventory'
+  ];
+  print(nav);
   var info = {'name': 'khirman', 'age': '24', 'number': 0};
   final readOnlyMap = UnmodifiableMapView(info);
   try {
