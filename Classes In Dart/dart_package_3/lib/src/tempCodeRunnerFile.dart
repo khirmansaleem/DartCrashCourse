@@ -1,0 +1,1 @@
+When we set the value of a variable in setter then when we used that variable in a method
