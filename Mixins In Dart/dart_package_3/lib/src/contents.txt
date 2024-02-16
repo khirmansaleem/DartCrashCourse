@@ -1,0 +1,14 @@
+Example 1: SIMPLE MIXINS
+Example 2: MIXINS AND FUNCTIONS PARAMETERS
+Example 3: MIXINS WITH LOGIC
+Example 4: LIMITING MIXINS TO DATA TYPES
+Example 5 : MIXINS WITH HASHCODE IMPLEMENTATION
+Example 6 : MIXINS AND REFLECTIONS
+Example 7 : MIXINS WITH EQUALITY IMPLEMENTATION.
+
+==========================================================================================================
+Class: Yes, a data type that defines the shape and behavior of objects.
+Enum: Yes, a special kind of class that represents a group of constants.
+Mixin: No, not a data type in itself. It's a way to share functionality among classes without 
+inheriting from them.
+===========================================================================================================
