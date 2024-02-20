@@ -1,0 +1,12 @@
+01- Generic Integer or Double
+02- Type Matching
+03 - Constrained Generic Type Definitions
+04 - Unconstrained Generic Type Definitions
+05 - Specializing Generic Type Definitions
+06 - Generic Mixins and Specialized Mixin Type Definitions
+07 - Generic Classes with Generic Extensions
+08 - Generic Sorting with Comparable
+09 - Handling Lack of Common Ancestors
+10 - Generic Extension on Any Data Type
+11 - Generic Function Pointers
+12 - Generic Class Properties
