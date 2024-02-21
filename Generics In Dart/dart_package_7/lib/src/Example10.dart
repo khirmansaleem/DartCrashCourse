@@ -5,7 +5,6 @@ void main() {
       personThing.checkType((Person p) => p.dance()) ?? 'unknnown type';
   print(personName);
   int a = 6;
-  int c = 4;
   final aSumb = a.checkType((int c) => a * c) ?? 0;
   print(aSumb);
 }
